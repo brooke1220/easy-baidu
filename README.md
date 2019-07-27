@@ -24,4 +24,6 @@ $api = new opernPlatform(
 ```
 配置跟超哥的 EasyWechat 的一致
 
-如果有什么不懂的 可以加 发送邮件  [邮箱](brooke-p@qq.com)
+如果有什么不懂的 可以加 发送邮件  [邮箱](http://brooke-p@qq.com) 请去掉协议
+
+QQ: 2122132436 请注明来处 比如 easy-baidu
